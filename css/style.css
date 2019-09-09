@@ -1,6 +1,6 @@
 body {
     background-color: #9dd53a;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 
 .ul_1 {
@@ -13,7 +13,12 @@ body {
     display: inline;
   }
 
-  .week {
+.week {
 text-align: center;
+font-style: italic;
   }
+
+.inquiry {
+    text-align: center;
+    }
 
